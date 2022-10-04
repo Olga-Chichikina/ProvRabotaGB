@@ -16,7 +16,7 @@ for( i=0 ; i<array.Length ; i++)
         arrayNew[j]= array[i];
         Console.WriteLine(arrayNew[j]);
       }
-      else
+       else
         {
           j++;
         }
