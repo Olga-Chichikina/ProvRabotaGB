@@ -1,0 +1,15 @@
+E:\IT-технологии\kontr1\kont1\bin\Debug\net6.0\kont1.exe
+E:\IT-технологии\kontr1\kont1\bin\Debug\net6.0\kont1.deps.json
+E:\IT-технологии\kontr1\kont1\bin\Debug\net6.0\kont1.runtimeconfig.json
+E:\IT-технологии\kontr1\kont1\bin\Debug\net6.0\kont1.dll
+E:\IT-технологии\kontr1\kont1\bin\Debug\net6.0\kont1.pdb
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.csproj.AssemblyReference.cache
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.AssemblyInfoInputs.cache
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.AssemblyInfo.cs
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.csproj.CoreCompileInputs.cache
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.dll
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\refint\kont1.dll
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.pdb
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\kont1.genruntimeconfig.cache
+E:\IT-технологии\kontr1\kont1\obj\Debug\net6.0\ref\kont1.dll
